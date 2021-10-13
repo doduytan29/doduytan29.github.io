@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Duy Tan Do
 description: I am Tan, a PhD student at Universidad Carlos III de Madrid.
 teaser: /assets/img/500x300.png
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
