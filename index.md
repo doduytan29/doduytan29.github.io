@@ -4,4 +4,6 @@ layout: default
 # {{site.title}}
 {{site.description}}
 
-![a](/assets/img/DuyTanDo.JPG)
+![](/assets/img/DuyTanDo.JPG)
+
+![](/assets/img/favicon.png)
