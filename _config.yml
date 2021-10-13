@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: /assets/img/DuyTanDo.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 title: GitHub pages template
 description: A simple template based on minimal jekyll theme
 show_downloads: True
