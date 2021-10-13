@@ -4,4 +4,4 @@ layout: default
 # {{site.title}}
 {{site.description}}
 
-![a](DuyTanDo.PNG)
+![a](/assets/img/DuyTanDo.PNG)
