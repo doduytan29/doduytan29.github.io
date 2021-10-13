@@ -4,7 +4,6 @@ layout: default
 # {{site.title}}
 {{site.description}}
 
-<img src="/assets/img/DuyTanDo.JPG" width="100" height="100">
+<img src="/assets/img/DuyTanDo.JPG" width="300" height="320">
 
-![](/assets/img/DuyTanDo.JPG)
 
