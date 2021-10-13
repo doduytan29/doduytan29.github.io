@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-teaser: /assets/img/favicon.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: favicon.png
 title: Duy Tan Do
 description: I am Tan, a PhD student at Universidad Carlos III de Madrid.
 show_downloads: True
