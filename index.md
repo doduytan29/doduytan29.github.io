@@ -27,6 +27,7 @@ I exploit the 2012 French introduction of a financial transaction tax (FTT) levi
 
 ### [Shareholder Voting and Disclosure in M\&As](https://drive.google.com/file/d/1HkA2R1nfJ4ziebEW27PHxGMI1-jTiXhI/view?usp=sharing)
 *with Beatriz García Osma, Anna Toldrà-Simats and Fengzhi Zhu (UC3M)*
+
 We examine whether voting requirements in M\&As induce disclosure, lowering information asymmetry. We find that acquirers subject to shareholder voting provide more 8-K disclosure during the transaction period, and are more likely to provide timely disclosures of the merger agreement, as well as information on expected synergies and post-merger earnings forecasts. For acquirers subject to shareholder voting, we document that the association between disclosure and bid-ask spread is more negative than in other acquirers, and the association between disclosure and transient institutional sales is more positive. This suggests that disclosure is more informative and it can affect voting outcomes through changing the deal valuation and the shareholder base. Evidence from falsification tests and a regression-discontinuity design supports the causal interpretation of the positive effect of shareholder voting on disclosure.
 
 # Work in Progress
